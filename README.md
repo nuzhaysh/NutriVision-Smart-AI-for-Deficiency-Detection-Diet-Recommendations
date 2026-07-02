@@ -1,0 +1,2 @@
+# NutriVision-Smart-AI-for-Deficiency-Detection-Diet-Recommendations
+NutriVision is an AI-powered web application that detects nutritional deficiencies from eye and nail images using the InceptionV3 DL model. Built with Django, TensorFlow, OpenCV, and MySQL, it provides instant predictions, personalized diet recommendations, and an AI chatbot to promote early nutritional awareness and preventive healthcare.
