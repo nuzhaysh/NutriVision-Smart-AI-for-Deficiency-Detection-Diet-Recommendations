@@ -187,4 +187,3 @@ Future work also includes improving dataset diversity, adaptive recommendations,
 
 ---
 
-⭐ If you found this project useful, don't forget to **Star** the repository!
